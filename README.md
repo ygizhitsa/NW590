@@ -1,2 +1,3 @@
-# NW590
-Capstone project
+# NW590 - Capstone project
+### References 
+
